@@ -1,0 +1,7 @@
+{
+  "name": "angulartest3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

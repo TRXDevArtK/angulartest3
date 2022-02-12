@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "angulartest3",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
